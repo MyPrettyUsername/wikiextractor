@@ -91,3 +91,7 @@ ENV/
 
 # Editor files
 *.idea
+
+wiki/
+*.bz2
+*.csv
